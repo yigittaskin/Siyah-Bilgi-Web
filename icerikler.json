@@ -1,0 +1,109 @@
+{
+    "icerikler":[
+        {
+            "image": "img/bu hafta neler oldu .png",
+            "baslik":"Bu Hafta Neler Oldu?",
+            "text": "Bu Hafta Neler Oldu? oynatma listemizde sizler için haftanın en önemli haberlerini sunuyoruz. Pazar günleri kahvenizi alıp 'Bu hafta neler olmuş acaba?' diyip izleyeceğiniz bir video serisi. Her Pazar saat 12.00'da yayında ! Keyifle takip edeceğiniz bir seri :)",
+            "tarih":"14 Şubat 2021 tarihinden itibaren devam ediyor.",
+            "link":"https://www.youtube.com/playlist?list=PL9dKetHADjIISa5zRWB4NVHYrChbCPyBb"
+        },
+        {
+            "image": "img/filmyorumları.png",
+            "baslik":"Film/Dizi Yorumları",
+            "text": "Film veya dizi izlemek istiyorsun ama hangisini izleyeceğine karar veremiyor musun? Bu video serisi tam sana göre! Sizler için izlediğimiz filmleri ve dizileri yorumluyoruz. Hangisini izleyeceğini artık daha kolay kararlaştırabilirsin.",
+            "tarih":"1 Mart 2021 tarihinden itibaren devam ediyor.",
+            "link":"https://www.youtube.com/playlist?list=PL9dKetHADjIIC4-9IqDXmku8nGLxyFLmJ"
+        },
+        {
+            "image": "img/kitapyorumları.png",
+            "baslik":"Kitap Yorumları",
+            "text": "'Kitaplar da dostlar gibi az fakat iyi seçilmiş olmalıdırlar.' Bu söz ne kadar doğru değil mi? Sizler için okuduğumuz kitapları yorumluyoruz. Hangi kitapı seçeceğiniz artık sizin için daha kolay! </br> </br>",
+            "tarih":"28 Şubat 2021 tarihinden itibaren devam ediyor.",
+            "link":"https://www.youtube.com/playlist?list=PL9dKetHADjIJB6hjzjZalIeGTyuJdnsC0"
+        },
+        {
+            "image": "img/istanbulsözleşmesi.jpg",
+            "baslik":"İstanbul Sözleşmesi",
+            "text": "21.Yüzyıldayız lakin hâla kadın haklarını savunuyoruz. Bu videomuzda Fesh Edilen İstanbul Sözleşmesi'ni sizler için anlattık. Nereden çıktığını, maddelerinin ne olduğunu ve neden ülkemizde fesh edildiğini öğrenmek isterseniz videomuzu izleyebilirsiniz.",
+            "tarih":"22 Mart 2021",
+            "link":"https://www.youtube.com/watch?v=p-i6fxIdIQs&t"
+        },
+        {
+            "image": "img/13sayısı.jpg",
+            "baslik":"13 Sayısının Uğursuzluğu",
+            "text": "İnsan beyni etrafında gördüğü şeylerde bir düzen ya da 13 de olduğu gibi bir düzensizlik arıyor sürekli. Bunu bulduğu noktaları biriktiriyor, sonra da o noktaları birleştirmeye başlıyor. Ve “büyük resmi” görüyor. Ama gördüğü şey gerçekten bir resim mi ve gerçek mi yoksa hayal mi?",
+            "tarih":"29 Nisan 2021",
+            "link":"https://www.youtube.com/watch?v=TWtAzEnRpDc"
+        },
+        {
+            "image": "img/paryalar.jpg",
+            "baslik":"Paryalar",
+            "text": "Sınıflandırmaya dahil olmayan parya adında bir sınıf vardır. Bu videoda Kast Sistemi'ni ve Paryaları sizler için anlatıyoruz. Hazırlarken hem çok keyif aldığımız hem çok şaşırdığımız bir video oldu. Dünya'nın öteki taraflarında bu tarz bir yaşamın olması insanı biraz üzüyor...",
+            "tarih":"18 Mart 2021",
+            "link":"https://www.youtube.com/watch?v=UM5kkTq0jE0"
+        },
+        {
+            "image": "img/rüyalar.jpg",
+            "baslik":"Rüyalar Hakkında 15 Siyah Bilgi",
+            "text": "Rüya ya da düş. Uykunun genel ve karakteristik özelliklerinden biri olup, uykunun hızlı göz hareketi adlı evreleriyle yakından ilişkili bulunan, görsel ve işitsel algı ve duygulardır. Yaşamımızda en açıklanamaz, en gizemli ama bir o kadar da heyecanlı deneyimlerinden biridir. Bu videomuzda sizlere rüyalar hakkında 15 siyah bilgiyi seslendirdik.",
+            "tarih":"25 Mart 2021",
+            "link":"https://www.youtube.com/watch?v=aprLW6JPlD8"
+        },
+        {
+            "image": "img/zimamavisi.jpg",
+            "baslik":"Zima Mavisi",
+            "text": "Tüm imkanlara sahip olmak bizi mutluluktan uzaklaştırır. Zima'nın hikayesi evrendeki her şeyi yapmış bir robotun asıl işi olan havuz temizlemeye dönmesidir. Eğer hayatta mutluluk arıyorsak mücadelemiz olmalıdır. Haluk Bilginer'in de dediği gibi Mutluluk = Mücadele ! </br></br></br></br>",
+            "tarih":"11 Mayıs 2021",
+            "link":"https://www.youtube.com/watch?v=EA20cURLTLg"
+        },
+        {
+            "image": "img/paralarınarkasındaki.jpg",
+            "baslik":"Paraların Arkasındaki Hayatlar",
+            "text": "5 TL, 10 TL, 20 TL, 50 TL, 100 TL ve 200 TL olmak üzere 6 banknot kullanımda. Bu banknot yani kağıt paralarda Ordinaryus Profesör Doktor Aydın Sayılı, Mimar Ahmed Kemaleddin, Fatma Aliye Hanım, Yunus Emre gibi kişiler yer alıyor. Bu videomuzda sizlere bu kişileri anlattık.  </br></br></br>",
+            "tarih":"6 Mayıs 2021",
+            "link":"https://www.youtube.com/watch?v=2mRPZG6V5a0"
+        },
+        {
+            "image": "img/pabloescobar.jpg",
+            "baslik":"Pudra Şekeri Kaçakçısı Pablo Escobar",
+            "text": "Dünyada madde kullanımının yayılmasında ki en büyük etken olan, servetinin tamamını illegal yollarla kazanarak yasal düzenin en büyük karşıtlarından birisi haline gelen ama aynı zamanda bir halk kahramanı olmayı başaran bir Kolombiyalı. PABLO ESCOBAR... </br></br></br></br></br></br></br>",
+            "tarih":"1 Nisan 2021",
+            "link":"https://www.youtube.com/watch?v=fQelSjOi0pQ"
+        },
+        {
+            "image": "img/Genç Werther.png",
+            "baslik":"Genç Werther'in Acıları",
+            "text": "Genç Werther’in Acıları, Goethe tarafından 1774 yılında iki haftada yazılmış, mektup türünde bir romandır. Goethe, bu romanı yazdığında henüz 25 yaşında bir genç adamdır. Goethe bu roman ile birden bire ün kazanmıştır. Romanın basılmasının ardından Almanya‘da intihar vakaları birden bire artmış, Almanya sokaklarını mavi ceket, sarı pantolon giyen duygulu gençler istila etmiştir. Bu roman büyük ölçüde Goethe’nin kendi başından geçen bir aşk hikâyesinin yansımasıdır. Gelin birlikte romanımızı inceleyelim.",
+            "tarih":"11 Mart 2021",
+            "link":"https://www.youtube.com/watch?v=gXzeZTotrl8"
+        },
+        {
+            "image": "img/arılar.jpg",
+            "baslik":"Arılar Hakkında 11 Siyah Bilgi",
+            "text": "Arılar... Yaşam için oldukça önemli bir yere sahipler. Dünya üzerinde yaklaşık 20 bin, Türkiye’de ise yaklaşık olarak 2 bin türle temsil edilen arılar: 100 milyon yıldan bile daha uzun süredir* kendine hayran bırakan işlerine devam etmektedir. Günümüzden çok da uzak olmayan bir tarihte, 2014’te yapılan çalışmalarla yeni bulgulara ulaşılmış: bir arı türü olan bal arısının 1 milyon yıl evvel Asya’dan çıkarak Avrupa ve Afrika’ya yayıldığı bulunmuştur. Bu videoda arılar hakkında 11 siyah bilgiyi sizler için seslendirdik. Keyifli dinlemeler.",
+            "tarih":"8 Nisan 2021",
+            "link":"https://www.youtube.com/watch?v=tpjvGKH_LC8"
+        },
+        {
+            "image": "img/kediSahibi.png",
+            "baslik":"Kedi Sahibi Olmanın Avantajları",
+            "text": "İngiltere’de yapılan bir çalışmaya göre kadınların %82’si kedisi olan bir erkeğe daha fazla ilgi duyduklarını belirtmiş. Köpek sahibi olmanın katkısı yabana atılacak cinsten olmasa da katılımcıların %90’ı kedi sahibi erkeklerin daha nazik ve daha duygusal olduğunu söylemiş.",
+            "tarih":"13 Mayıs 2021",
+            "link":"https://youtu.be/yoKNntnrDx4"
+        },
+        {
+            "image": "img/hayvan.jpg",
+            "baslik":"#HayvanHaklarıYasasıHemen",
+            "text": "Madde 1- Bu Kanunun amacı; hayvanların rahat yaşamlarını ve hayvanlara iyi ve uygun muamele edilmesini temin etmek, hayvanların acı, ıstırap ve eziyet çekmelerine karşı en iyi şekilde korunmalarını, her türlü mağduriyetlerinin önlenmesini sağlamaktır.",
+            "tarih":"26 Mayıs 2021",
+            "link":"https://youtu.be/vA1yO2aHtdE"
+        },
+        {
+            "image": "img/korona.jpg",
+            "baslik":"Korona VS İspanyol Gribi",
+            "text": "İspanyol Gribi, 500 Milyondan fazla kişiye bulaşması sonucu 18 ay içinde 50 milyon dolayında insanın ölümüne sebep olarak insanlık tarihinde bilinen en büyük salgınlardan biri olmuştur. Bu salgını sizler için anlattık.",
+            "tarih":"10 Haziran 2021",
+            "link":"https://www.youtube.com/watch?v=yC38APQnwgc"
+        }
+    ]
+}
